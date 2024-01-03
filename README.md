@@ -24,13 +24,13 @@ you can see that server is running on http://localhost:5000.
 
 ## Demo
 ### 1. First Input Image.
-<p style="text-align: center;"> 
-  ![image](https://github.com/easyhak/IP-final-project/assets/48908552/0fd19de8-3105-41a9-914c-940ba52a4577)
-  
-</p>
-**2. For example Input 서울의 봄 movie poster.**   
+![image](https://github.com/easyhak/IP-final-project/assets/48908552/0fd19de8-3105-41a9-914c-940ba52a4577)
+
+### 2. For example Input 서울의 봄 movie poster.
 ![image](https://github.com/easyhak/IP-final-project/assets/48908552/66241d80-046e-424d-a563-447d83853c7b)
 
-**3. Submit an image, it recognizes a person's face on the screen, draws a square, and gives a number.**
-**4. Laughing at number 0 and giving blur option at number 1.**    
-</p>
+### 3. Submit an image, it recognizes a person's face on the screen, draws a square, and gives a number.
+![image](https://github.com/easyhak/IP-final-project/assets/48908552/ca1e17cf-54d3-4b92-a681-3af9f31ceb16)
+
+### 4. Laughing at number 0 and giving blur option at number 1.**    
+
